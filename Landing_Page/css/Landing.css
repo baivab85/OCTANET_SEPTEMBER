@@ -1,0 +1,211 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #EEE;
+}
+.top_border{
+    height:80px;
+    width:100%;
+    background-color: #db42c7;  
+}
+.icons{
+    margin-left:210px;
+}
+.icons a i{
+    margin-top: 30px;
+    font-size: larger;
+    color:white;
+}
+.verticle-line{
+    width:1px;
+    background-color: white;
+    height: 80px;
+    position: absolute;
+    margin-left: -22px;
+    top: 0;
+}
+.verticle-line1{
+    width:2px;
+    background-color: white;
+    height: 55px;
+    position: absolute;
+    margin-left: -22px;
+    margin-top: -35px;
+}
+.consult{
+    margin-left:1099px;
+    margin-top:-30px;
+    height:30px;
+    width:150px;
+    background-color:  #e89eff;
+    border-radius: 25px;
+    border:2px solid white;
+    overflow: hidden;
+}
+.consult:hover{
+    color:black;
+    background-color: aquamarine;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.heading{
+     height:80px;
+    width:100%;
+    background-color: whitesmoke;
+}
+.menu{
+    margin-left:610px;
+    margin-top: -60px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu1{
+    margin-left:710px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu2{
+    margin-left:810px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu3{
+    margin-left:910px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu4{
+    margin-left:1010px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu5{
+    margin-left:1150px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu6{
+    margin-left:1240px;
+    margin-top: -28px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.tales{
+    height: 400px;
+    width:100%;
+}
+.launch{
+    height:200px;
+    width:100%;
+
+    background-color:#db42c7;
+}
+.launch1{
+    height:20px;
+    width: 100%;  
+}
+.launch a i{
+    margin-top: 30px;
+    font-size: 40px;
+    color:white;
+}
+.bc{
+    height:580px;
+    width: 100%;
+    font-weight:700;
+    background-image: url('bg-map-d.png');
+    background-repeat: no-repeat;
+}
+.about{
+    width:62%;
+    float:left;
+}
+.image_about{
+    width:38%;
+    float:left; 
+}
+
+.consult1 button{
+    margin-left:40px;
+    margin-top:-10px;
+    height:30px;
+    width:120px;
+    background-color:  #e89eff;
+    border-radius: 25px;
+    border:2px solid white;
+    overflow: hidden;
+    cursor: pointer;
+}
+.consult1 button:hover{
+    color:black;
+    background-color: aquamarine;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.services{
+    height:500px;
+    width:100%;
+    background-color: #FFF9C9;
+}
+hr {
+    border: none;
+    width:260px;
+    border-top: 3px solid #e89eff;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    margin-left: 15px;
+}
+.ux{
+    float:left;
+    height:80px;
+    width: 21%;
+    background-color: #C2DEDC;
+    margin-top: -80px;
+    margin-left: 25px;
+}
+.chaka{
+    height:26px;
+    width:26px;
+    border: 1px solid blue;
+    border-radius: 50%;
+}
+.uy{
+    height:80px;
+    width: 21%;
+    background-color:#C2DEDC;
+    margin-top: -80px;
+    margin-left: 400px;
+}
+.uz{
+    height:80px;
+    width: 21%;
+    background-color:#C2DEDC;
+    margin-top: -80px;
+    margin-left: 775px;
+}
+.uw{
+    height:80px;
+    width: 21%;
+    background-color: #C2DEDC;
+    margin-top: -80px;
+    margin-left: 1150px;
+}
+footer{
+    margin-top: 20px;
+    height:30px;
+    width:100%;
+    background-color: #606C5D;
+    color:#080202;
+}
